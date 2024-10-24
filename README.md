@@ -21,33 +21,33 @@ This is a full-fledged clothing e-commerce application developed to showcase my 
 To get started with the project, clone the repository and install the dependencies:
 
 - ## Frontend Setup:
-- **Navigate to the react-app directory.**
-```bash
-  cd react-app
-```
-- **Install dependencies:**
-```bash
-npm install
-```
-- **Start the development server:**
-```bash
-npm start
-```
-- ## Backend Setup
-- **Navigate to the backend directory.**
+  - **Navigate to the react-app directory.**
   ```bash
-  cd back-end
-    ```
-- **Install dependencies:**
-```bash
-npm install
-```
-- **Set up your MySQL database**
-
-- **Start the server:**
-```bash
-node index.js
-```
+    cd react-app
+  ```
+  - **Install dependencies:**
+  ```bash
+  npm install
+  ```
+  - **Start the development server:**
+  ```bash
+  npm start
+  ```
+- ## Backend Setup
+  - **Navigate to the backend directory.**
+    ```bash
+    cd back-end
+      ```
+  - **Install dependencies:**
+  ```bash
+  npm install
+  ```
+  - **Set up your MySQL database**
+  
+  - **Start the server:**
+  ```bash
+  node index.js
+  ```
 ## Deployment
 This project can be deployed on any cloud platform. Make sure to configure your environment variables properly for production.
 
