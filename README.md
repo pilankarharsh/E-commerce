@@ -20,7 +20,8 @@ This is a full-fledged clothing e-commerce application developed to showcase my 
 ## Installation
 To get started with the project, clone the repository and install the dependencies:
 
-- **Frontend Setup:** Navigate to the react-app directory.
+- ## Frontend Setup:
+- **Navigate to the react-app directory.**
 ```bash
   cd react-app
 ```
@@ -32,7 +33,7 @@ npm install
 ```bash
 npm start
 ```
-- **Backend Setup**
+- ## Backend Setup
 - **Navigate to the backend directory.**
   ```bash
   cd back-end
